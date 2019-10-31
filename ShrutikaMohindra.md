@@ -32,8 +32,8 @@ __Customer Engagement__
 *	Creating POCs for business solutions, requirement gathering as part of business projects and provide innovative solutions 
 *	Leading weekly and monthly calls with the Management to update progress and team productivity
 *	Develop relationships with customers that allows ease of communications and improves problem solving capabilities of the team
-*	Drive all the kick off and high level design discussions with the customer to ensure everyone has same understading of "Definition of Done"
-*	Preparing monhtly forecasting and customer cost estimates 
+*	Drive all the kick off and high level design discussions with the customer to ensure everyone has same understanding of "Definition of Done"
+*	Preparing monthly forecasting and customer cost estimates 
 *	Ensured all projects are on track and following quality procedures for delivery	
 
 __People Management__ 
@@ -57,14 +57,14 @@ __Employee Quality Management Systems__ | Union Pacific RailRoad | 2011 - 2014
 
 EQM System provides a one-stop center for field managers to access operational and employee information. EQMS integrates various    UPRR systems as one application. 
 
-* Particiapted in requirement gathering of initial three major modules
+* Participated in requirement gathering of initial three major modules
 * Involved in designing framework and database for the project 
-* Estimations, resouce planning along with planning phase wise deliveries for the project
+* Estimations, resource planning along with planning phase wise deliveries for the project
 * Providing technical guidance to the team and helping them understanding the business requirements
-* Coordinating with various other teams for cross fucntional requirements which were important for project success
-* Responsible for project execution and timely delivery with both functional and non functional requirements 
+* Coordinating with various other teams for cross functional requirements which were important for project success
+* Responsible for project execution and timely delivery with both functional and nonfunctional requirements 
 
-__RMCC Incident Management System__ | Union pacific RailRoad | 2008-2009
+__RMCC Incident Management System__ | Union pacific Rail Road | 2008-2009
 
 The Response Management Communication Center (RMCC) department in UPRR is responsible for handling these incidents. These incidents are reported to the appropriate departments or individuals to minimize the incident effect on rail transportation.
 
@@ -74,7 +74,7 @@ The Response Management Communication Center (RMCC) department in UPRR is respon
 * Customer communication, metrics collection, analysis and usage, planning and Monitoring Defect Prevention Activities, maintaining quality records.
 * Co-ordination with onsite team and offshore team for the issue resolutions and delivery.
 
-__Electronic Van Management System__ | Union Pacific RailRoad | 2006 - 2008
+__Electronic Van Management System__ | Union Pacific Rail Road | 2006 - 2008
 
 The major functionality of this project is optimization of the van utilization so as to minimize the cost to the van vendor. EVMS provides the capability to initiate orders, change or cancel orders.
 
@@ -84,7 +84,7 @@ The major functionality of this project is optimization of the van utilization s
 * Also responsible for building & deliver Patch Delivery to On-site Team.
 * Testing – Unit testing and integration testing.
 
-__Fuel Master Application__ |Union Pacific RailRoad | 2005-2006
+__Fuel Master Application__ |Union Pacific Rail Road | 2005-2006
 
 The Fuel Master Program application (FMA) is developed for engineers to enter data of fuel consumption and will mainly benefit the engineers in such remote locations, as their performance is never checked since no data is fed from these locations.
 
