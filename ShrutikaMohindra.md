@@ -1,7 +1,7 @@
 ## Shrutika Mohindra
 
 ##### shrutika.mohindra@gmail.com | (224) 800-8277 | Sammamish, Washington
-##### [www.linkedin.com/in/shrutika-mohindra](https://www.linkedin.com/in/shrutika-mohindra| [github.com/shrutikaatgithub](https://github.com/shrutikaatgithub)
+##### [www.linkedin.com/in/shrutika-mohindra](https://www.linkedin.com/in/shrutika-mohindra-4978015/| [github.com/shrutikaatgithub](https://github.com/shrutikaatgithub)
 
 #### PROFILE
 Customer focused Program manager and Technical Expert with 10+ years of customer facing experience along with managing enterprise web applications in Java/J2EE and related Technologies. Proficient in effectively managing project architecture, design, and execution with best IT practices. High performing leader and operations manager delivering successful improvements for business, profitability and team development.
