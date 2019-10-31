@@ -4,7 +4,7 @@
 ##### [www.linkedin.com/in/shrutika-mohindra](https://www.linkedin.com/in/shrutika-mohindra| [github.com/shrutikaatgithub](https://github.com/shrutikaatgithub)
 
 #### PROFILE
-Customer focused Program manager/Project Manager and Technical Expert with 10+ years of customer facing experience along with managing enterprise web applications in Java/J2EE and related Technologies. Proficient in effectively managing project architecture, design, and execution with best IT practices. High performing leader and operations manager delivering successful improvements for business, profitability and team development.
+Customer focused Program manager and Technical Expert with 10+ years of customer facing experience along with managing enterprise web applications in Java/J2EE and related Technologies. Proficient in effectively managing project architecture, design, and execution with best IT practices. High performing leader and operations manager delivering successful improvements for business, profitability and team development.
 Led the organizations IT process improvement practise along with overseeing 30+ members team to deliver IT transformations, process management and resource management. 
 
 #### SKILLS
